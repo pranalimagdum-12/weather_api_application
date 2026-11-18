@@ -19,6 +19,7 @@ The application demonstrates how Python can communicate with an external API, pr
 - Handle API and connection errors
 - Securely store the API key using environment variables
 - Use `.gitignore` to prevent sensitive files from being uploaded to GitHub
+-Support multiple city searches, allowing users to enter city names one by one and fetch their real-time weather information
 
 ## Technologies Used
 
